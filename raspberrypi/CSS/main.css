@@ -1,7 +1,7 @@
-body {
-	background-color: green;
+hi {
+	color: black;
 }
 
 h1, h2, p {
-	color: black;
+	background-color: green;
 }
