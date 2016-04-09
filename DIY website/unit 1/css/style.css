@@ -1,7 +1,12 @@
 body {
-	background-color: green;
+	color: black;
 }
 
 h1, h2, p {
+<<<<<<< HEAD:DIY website/unit 1/css/style.css
 	color: yellow;
 }
+=======
+	background-color: green;
+}
+>>>>>>> parent of 51fa028... unit 1 redo:raspberrypi/CSS/style.css
