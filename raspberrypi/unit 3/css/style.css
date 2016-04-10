@@ -1,0 +1,27 @@
+body {
+	background: url(http://cdn.arstechnica.net/wp-content/uploads/2013/03/raspberry-pi-berries.jpg);
+	background-size: 99%;
+	color: #fcce14;
+	font-family: Verdana, sans-serif; 
+}
+h1 {
+	text-align: center;
+	font-size: 45px;
+	font-style: bold;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;
+}
+h3 {
+	color: #ffbb0d;
+	font-size: 30px;
+}
+p {
+	color: #ffbb0d;
+	font-size: 28px;
+}
+hr {
+	width: 400px;
+}
