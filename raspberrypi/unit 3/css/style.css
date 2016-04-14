@@ -1,27 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,900);
+
 body {
-	background: url(http://cdn.arstechnica.net/wp-content/uploads/2013/03/raspberry-pi-berries.jpg);
-	background-size: 99%;
-	color: #fcce14;
+	color: #f2289c;
 	font-family: Verdana, sans-serif; 
 }
+
 h1 {
 	text-align: center;
+	font-family: 'Orbitron', sans-serif;
 	font-size: 45px;
 	font-style: bold;
 }
+
 h2 {
 	text-align: center;
+	font-family: 'Orbitron', sans-serif;
 	font-size: 30px;
 	font-style: italic;
 }
+
 h3 {
+	font-family: 'Orbitron', sans-serif;
 	color: #ffbb0d;
 	font-size: 30px;
 }
+#contactme {
+	font-style: bold;
+	text-align: center;
+}
+
 p {
+	font-family: 'Veranda' , sans-serif; 
 	color: #ffbb0d;
 	font-size: 28px;
 }
+
+ {
+	font-size: 20px;
+	font-family: 'Orbitron', sans-serif;
+}
+
 hr {
-	width: 400px;
+	width: 400px; 
 }
